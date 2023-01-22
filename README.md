@@ -20,10 +20,12 @@
  
 <div> 
    <a href="https://www.linkedin.com/in/vitor--novoa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/vitor_novoa/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://www.twitch.tv/noob_beta" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/uYznQrNP" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:vitor.silva.novoa.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/vitor_novoa/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-FF307D?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ <a href="https://www.twitch.tv/noob_beta" target="_blank"><img src="https://img.shields.io/badge/Twitch-B538EB?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+ <a href="https://discord.gg/uYznQrNP" target="_blank"><img src="https://img.shields.io/badge/Discord-476FDE?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+ <a href = "mailto:vitor.silva.novoa@gmail.com"><img src="https://img.shields.io/badge/-Gmail-FF4227?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ <a href = "mailto:vitor_novoa@hotmail.com"><img src="https://img.shields.io/badge/-Outlook-4949E3?style=for-the-badge&logo=microsoft&logoColor=white" target="_blank"></a>
+
   <!-- <a href="https://youtube.com/@noob_beta" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a> -->
  
   ![Snake animation](https://github.com/VitorNovoa/VitorNovoa/blob/output/github-contribution-grid-snake.svg)
